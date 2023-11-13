@@ -1,0 +1,1308 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6083746838156063466
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2184664514947262605}
+  m_Layer: 0
+  m_Name: Fence
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2184664514947262605
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6083746838156063466}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.4779387, y: 2.886173, z: -14.014455}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1224327238300805365}
+  - {fileID: 7253966798890408539}
+  - {fileID: 6989525303865416608}
+  - {fileID: 2478773704605062569}
+  - {fileID: 5359577432333651393}
+  - {fileID: 1272788075542786418}
+  - {fileID: 6213931554052479905}
+  - {fileID: 5734437071681760882}
+  - {fileID: 1854263215901330790}
+  - {fileID: 3418911653905274843}
+  - {fileID: 1620089776149444977}
+  - {fileID: 5002048265399370728}
+  - {fileID: 273985590717597909}
+  - {fileID: 1427223206837966654}
+  - {fileID: 8825882381888706340}
+  - {fileID: 6797207671550885651}
+  - {fileID: 135707178981084994}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &883415866130467794
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2184664514947262605}
+    m_Modifications:
+    - target: {fileID: 3325021575735336569, guid: f7e6c127e0dcf9f498cbf56bdb9a7136,
+        type: 3}
+      propertyPath: m_Name
+      value: PF Village Props - Brick Wall 01 (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3325021575735336571, guid: f7e6c127e0dcf9f498cbf56bdb9a7136,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.667938
+      objectReference: {fileID: 0}
+    - target: {fileID: 3325021575735336571, guid: f7e6c127e0dcf9f498cbf56bdb9a7136,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.343827
+      objectReference: {fileID: 0}
+    - target: {fileID: 3325021575735336571, guid: f7e6c127e0dcf9f498cbf56bdb9a7136,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.014455
+      objectReference: {fileID: 0}
+    - target: {fileID: 3325021575735336571, guid: f7e6c127e0dcf9f498cbf56bdb9a7136,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3325021575735336571, guid: f7e6c127e0dcf9f498cbf56bdb9a7136,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3325021575735336571, guid: f7e6c127e0dcf9f498cbf56bdb9a7136,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3325021575735336571, guid: f7e6c127e0dcf9f498cbf56bdb9a7136,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3325021575735336571, guid: f7e6c127e0dcf9f498cbf56bdb9a7136,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3325021575735336571, guid: f7e6c127e0dcf9f498cbf56bdb9a7136,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3325021575735336571, guid: f7e6c127e0dcf9f498cbf56bdb9a7136,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f7e6c127e0dcf9f498cbf56bdb9a7136, type: 3}
+--- !u!4 &2478773704605062569 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3325021575735336571, guid: f7e6c127e0dcf9f498cbf56bdb9a7136,
+    type: 3}
+  m_PrefabInstance: {fileID: 883415866130467794}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1063751107026046861
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2184664514947262605}
+    m_Modifications:
+    - target: {fileID: 8410726004182325417, guid: 8dc40b77894ad8749b1cc9ee0076a463,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.42206144
+      objectReference: {fileID: 0}
+    - target: {fileID: 8410726004182325417, guid: 8dc40b77894ad8749b1cc9ee0076a463,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.2238271
+      objectReference: {fileID: 0}
+    - target: {fileID: 8410726004182325417, guid: 8dc40b77894ad8749b1cc9ee0076a463,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.014455
+      objectReference: {fileID: 0}
+    - target: {fileID: 8410726004182325417, guid: 8dc40b77894ad8749b1cc9ee0076a463,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8410726004182325417, guid: 8dc40b77894ad8749b1cc9ee0076a463,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8410726004182325417, guid: 8dc40b77894ad8749b1cc9ee0076a463,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8410726004182325417, guid: 8dc40b77894ad8749b1cc9ee0076a463,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8410726004182325417, guid: 8dc40b77894ad8749b1cc9ee0076a463,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8410726004182325417, guid: 8dc40b77894ad8749b1cc9ee0076a463,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8410726004182325417, guid: 8dc40b77894ad8749b1cc9ee0076a463,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8410726004182325423, guid: 8dc40b77894ad8749b1cc9ee0076a463,
+        type: 3}
+      propertyPath: m_Name
+      value: PF Village Props - Fence B (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8dc40b77894ad8749b1cc9ee0076a463, type: 3}
+--- !u!4 &8825882381888706340 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 8410726004182325417, guid: 8dc40b77894ad8749b1cc9ee0076a463,
+    type: 3}
+  m_PrefabInstance: {fileID: 1063751107026046861}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1679425202684997672
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2184664514947262605}
+    m_Modifications:
+    - target: {fileID: 1478271546197604603, guid: 62f75286d992bae418996ea023634bfb,
+        type: 3}
+      propertyPath: m_Name
+      value: PF Village Props - Fence B (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1478271546197604605, guid: 62f75286d992bae418996ea023634bfb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 1478271546197604605, guid: 62f75286d992bae418996ea023634bfb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.228071
+      objectReference: {fileID: 0}
+    - target: {fileID: 1478271546197604605, guid: 62f75286d992bae418996ea023634bfb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.014455
+      objectReference: {fileID: 0}
+    - target: {fileID: 1478271546197604605, guid: 62f75286d992bae418996ea023634bfb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1478271546197604605, guid: 62f75286d992bae418996ea023634bfb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1478271546197604605, guid: 62f75286d992bae418996ea023634bfb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1478271546197604605, guid: 62f75286d992bae418996ea023634bfb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1478271546197604605, guid: 62f75286d992bae418996ea023634bfb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1478271546197604605, guid: 62f75286d992bae418996ea023634bfb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1478271546197604605, guid: 62f75286d992bae418996ea023634bfb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 62f75286d992bae418996ea023634bfb, type: 3}
+--- !u!4 &273985590717597909 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1478271546197604605, guid: 62f75286d992bae418996ea023634bfb,
+    type: 3}
+  m_PrefabInstance: {fileID: 1679425202684997672}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3076920982737148912
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2184664514947262605}
+    m_Modifications:
+    - target: {fileID: 6976744410315544113, guid: 6ea3506b276db954583327db4f7cfb62,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 13.920511
+      objectReference: {fileID: 0}
+    - target: {fileID: 6976744410315544113, guid: 6ea3506b276db954583327db4f7cfb62,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.5438268
+      objectReference: {fileID: 0}
+    - target: {fileID: 6976744410315544113, guid: 6ea3506b276db954583327db4f7cfb62,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.014455
+      objectReference: {fileID: 0}
+    - target: {fileID: 6976744410315544113, guid: 6ea3506b276db954583327db4f7cfb62,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6976744410315544113, guid: 6ea3506b276db954583327db4f7cfb62,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6976744410315544113, guid: 6ea3506b276db954583327db4f7cfb62,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6976744410315544113, guid: 6ea3506b276db954583327db4f7cfb62,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6976744410315544113, guid: 6ea3506b276db954583327db4f7cfb62,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6976744410315544113, guid: 6ea3506b276db954583327db4f7cfb62,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6976744410315544113, guid: 6ea3506b276db954583327db4f7cfb62,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6976744410315544115, guid: 6ea3506b276db954583327db4f7cfb62,
+        type: 3}
+      propertyPath: m_Name
+      value: PF Village Props - Brick Wall 01 (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6ea3506b276db954583327db4f7cfb62, type: 3}
+--- !u!4 &5359577432333651393 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6976744410315544113, guid: 6ea3506b276db954583327db4f7cfb62,
+    type: 3}
+  m_PrefabInstance: {fileID: 3076920982737148912}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3205374308362219587
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2184664514947262605}
+    m_Modifications:
+    - target: {fileID: 3873214844778364197, guid: 682c22d91f163874ab17ab653cf62490,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.657939
+      objectReference: {fileID: 0}
+    - target: {fileID: 3873214844778364197, guid: 682c22d91f163874ab17ab653cf62490,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.5038269
+      objectReference: {fileID: 0}
+    - target: {fileID: 3873214844778364197, guid: 682c22d91f163874ab17ab653cf62490,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.014455
+      objectReference: {fileID: 0}
+    - target: {fileID: 3873214844778364197, guid: 682c22d91f163874ab17ab653cf62490,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3873214844778364197, guid: 682c22d91f163874ab17ab653cf62490,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3873214844778364197, guid: 682c22d91f163874ab17ab653cf62490,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3873214844778364197, guid: 682c22d91f163874ab17ab653cf62490,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3873214844778364197, guid: 682c22d91f163874ab17ab653cf62490,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3873214844778364197, guid: 682c22d91f163874ab17ab653cf62490,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3873214844778364197, guid: 682c22d91f163874ab17ab653cf62490,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3873214844778364199, guid: 682c22d91f163874ab17ab653cf62490,
+        type: 3}
+      propertyPath: m_Name
+      value: PF Village Props - Brick Wall 01 (10)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 682c22d91f163874ab17ab653cf62490, type: 3}
+--- !u!4 &1854263215901330790 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3873214844778364197, guid: 682c22d91f163874ab17ab653cf62490,
+    type: 3}
+  m_PrefabInstance: {fileID: 3205374308362219587}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3642048743983049734
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2184664514947262605}
+    m_Modifications:
+    - target: {fileID: 2159830071562730461, guid: a0f3ee8245263cd4d9c8e334277507dd,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.537939
+      objectReference: {fileID: 0}
+    - target: {fileID: 2159830071562730461, guid: a0f3ee8245263cd4d9c8e334277507dd,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.5862906
+      objectReference: {fileID: 0}
+    - target: {fileID: 2159830071562730461, guid: a0f3ee8245263cd4d9c8e334277507dd,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.014455
+      objectReference: {fileID: 0}
+    - target: {fileID: 2159830071562730461, guid: a0f3ee8245263cd4d9c8e334277507dd,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2159830071562730461, guid: a0f3ee8245263cd4d9c8e334277507dd,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2159830071562730461, guid: a0f3ee8245263cd4d9c8e334277507dd,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2159830071562730461, guid: a0f3ee8245263cd4d9c8e334277507dd,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2159830071562730461, guid: a0f3ee8245263cd4d9c8e334277507dd,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2159830071562730461, guid: a0f3ee8245263cd4d9c8e334277507dd,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2159830071562730461, guid: a0f3ee8245263cd4d9c8e334277507dd,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2159830071562730463, guid: a0f3ee8245263cd4d9c8e334277507dd,
+        type: 3}
+      propertyPath: m_Name
+      value: PF Village Props - Brick Wall 01 (11)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a0f3ee8245263cd4d9c8e334277507dd, type: 3}
+--- !u!4 &3418911653905274843 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2159830071562730461, guid: a0f3ee8245263cd4d9c8e334277507dd,
+    type: 3}
+  m_PrefabInstance: {fileID: 3642048743983049734}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3764787661967502289
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2184664514947262605}
+    m_Modifications:
+    - target: {fileID: 2469240881756607136, guid: 3ab71ae2383d8ed4395e66a461eb9efc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.4720612
+      objectReference: {fileID: 0}
+    - target: {fileID: 2469240881756607136, guid: 3ab71ae2383d8ed4395e66a461eb9efc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.228071
+      objectReference: {fileID: 0}
+    - target: {fileID: 2469240881756607136, guid: 3ab71ae2383d8ed4395e66a461eb9efc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.014455
+      objectReference: {fileID: 0}
+    - target: {fileID: 2469240881756607136, guid: 3ab71ae2383d8ed4395e66a461eb9efc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2469240881756607136, guid: 3ab71ae2383d8ed4395e66a461eb9efc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2469240881756607136, guid: 3ab71ae2383d8ed4395e66a461eb9efc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2469240881756607136, guid: 3ab71ae2383d8ed4395e66a461eb9efc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2469240881756607136, guid: 3ab71ae2383d8ed4395e66a461eb9efc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2469240881756607136, guid: 3ab71ae2383d8ed4395e66a461eb9efc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2469240881756607136, guid: 3ab71ae2383d8ed4395e66a461eb9efc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2469240881756607142, guid: 3ab71ae2383d8ed4395e66a461eb9efc,
+        type: 3}
+      propertyPath: m_Name
+      value: PF Village Props - Fence B
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 3ab71ae2383d8ed4395e66a461eb9efc, type: 3}
+--- !u!4 &1620089776149444977 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2469240881756607136, guid: 3ab71ae2383d8ed4395e66a461eb9efc,
+    type: 3}
+  m_PrefabInstance: {fileID: 3764787661967502289}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3917469071118785484
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2184664514947262605}
+    m_Modifications:
+    - target: {fileID: 6242672318462410860, guid: d88df95dcf9c6f149896f94628c2321a,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 9.697939
+      objectReference: {fileID: 0}
+    - target: {fileID: 6242672318462410860, guid: d88df95dcf9c6f149896f94628c2321a,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.063827
+      objectReference: {fileID: 0}
+    - target: {fileID: 6242672318462410860, guid: d88df95dcf9c6f149896f94628c2321a,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.014455
+      objectReference: {fileID: 0}
+    - target: {fileID: 6242672318462410860, guid: d88df95dcf9c6f149896f94628c2321a,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6242672318462410860, guid: d88df95dcf9c6f149896f94628c2321a,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6242672318462410860, guid: d88df95dcf9c6f149896f94628c2321a,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6242672318462410860, guid: d88df95dcf9c6f149896f94628c2321a,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6242672318462410860, guid: d88df95dcf9c6f149896f94628c2321a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6242672318462410860, guid: d88df95dcf9c6f149896f94628c2321a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6242672318462410860, guid: d88df95dcf9c6f149896f94628c2321a,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6242672318462410862, guid: d88df95dcf9c6f149896f94628c2321a,
+        type: 3}
+      propertyPath: m_Name
+      value: PF Village Props - Brick Wall 01 (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d88df95dcf9c6f149896f94628c2321a, type: 3}
+--- !u!4 &6989525303865416608 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6242672318462410860, guid: d88df95dcf9c6f149896f94628c2321a,
+    type: 3}
+  m_PrefabInstance: {fileID: 3917469071118785484}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4752421607828166043
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2184664514947262605}
+    m_Modifications:
+    - target: {fileID: 5840695270420790636, guid: d1d0194d428674d429e15b91a84ef114,
+        type: 3}
+      propertyPath: m_Name
+      value: PF Village Props - Brick Wall 01
+      objectReference: {fileID: 0}
+    - target: {fileID: 5840695270420790638, guid: d1d0194d428674d429e15b91a84ef114,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.38420916
+      objectReference: {fileID: 0}
+    - target: {fileID: 5840695270420790638, guid: d1d0194d428674d429e15b91a84ef114,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.62345195
+      objectReference: {fileID: 0}
+    - target: {fileID: 5840695270420790638, guid: d1d0194d428674d429e15b91a84ef114,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.014455
+      objectReference: {fileID: 0}
+    - target: {fileID: 5840695270420790638, guid: d1d0194d428674d429e15b91a84ef114,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5840695270420790638, guid: d1d0194d428674d429e15b91a84ef114,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5840695270420790638, guid: d1d0194d428674d429e15b91a84ef114,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5840695270420790638, guid: d1d0194d428674d429e15b91a84ef114,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5840695270420790638, guid: d1d0194d428674d429e15b91a84ef114,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5840695270420790638, guid: d1d0194d428674d429e15b91a84ef114,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5840695270420790638, guid: d1d0194d428674d429e15b91a84ef114,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d1d0194d428674d429e15b91a84ef114, type: 3}
+--- !u!4 &1224327238300805365 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5840695270420790638, guid: d1d0194d428674d429e15b91a84ef114,
+    type: 3}
+  m_PrefabInstance: {fileID: 4752421607828166043}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4763504336907974270
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2184664514947262605}
+    m_Modifications:
+    - target: {fileID: 2787756387734236197, guid: 9aa78e215262d2048880c99cfd26586e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.8234076
+      objectReference: {fileID: 0}
+    - target: {fileID: 2787756387734236197, guid: 9aa78e215262d2048880c99cfd26586e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.7605815
+      objectReference: {fileID: 0}
+    - target: {fileID: 2787756387734236197, guid: 9aa78e215262d2048880c99cfd26586e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.014455
+      objectReference: {fileID: 0}
+    - target: {fileID: 2787756387734236197, guid: 9aa78e215262d2048880c99cfd26586e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2787756387734236197, guid: 9aa78e215262d2048880c99cfd26586e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2787756387734236197, guid: 9aa78e215262d2048880c99cfd26586e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2787756387734236197, guid: 9aa78e215262d2048880c99cfd26586e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2787756387734236197, guid: 9aa78e215262d2048880c99cfd26586e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2787756387734236197, guid: 9aa78e215262d2048880c99cfd26586e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2787756387734236197, guid: 9aa78e215262d2048880c99cfd26586e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2787756387734236199, guid: 9aa78e215262d2048880c99cfd26586e,
+        type: 3}
+      propertyPath: m_Name
+      value: PF Village Props - Brick Wall 01 (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9aa78e215262d2048880c99cfd26586e, type: 3}
+--- !u!4 &7253966798890408539 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2787756387734236197, guid: 9aa78e215262d2048880c99cfd26586e,
+    type: 3}
+  m_PrefabInstance: {fileID: 4763504336907974270}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5963858225940049282
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2184664514947262605}
+    m_Modifications:
+    - target: {fileID: 5990281737887933120, guid: 24a353cd98f33dd49adb4c094a3630e5,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.10793877
+      objectReference: {fileID: 0}
+    - target: {fileID: 5990281737887933120, guid: 24a353cd98f33dd49adb4c094a3630e5,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.65382695
+      objectReference: {fileID: 0}
+    - target: {fileID: 5990281737887933120, guid: 24a353cd98f33dd49adb4c094a3630e5,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.014455
+      objectReference: {fileID: 0}
+    - target: {fileID: 5990281737887933120, guid: 24a353cd98f33dd49adb4c094a3630e5,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5990281737887933120, guid: 24a353cd98f33dd49adb4c094a3630e5,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5990281737887933120, guid: 24a353cd98f33dd49adb4c094a3630e5,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5990281737887933120, guid: 24a353cd98f33dd49adb4c094a3630e5,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5990281737887933120, guid: 24a353cd98f33dd49adb4c094a3630e5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5990281737887933120, guid: 24a353cd98f33dd49adb4c094a3630e5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5990281737887933120, guid: 24a353cd98f33dd49adb4c094a3630e5,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5990281737887933122, guid: 24a353cd98f33dd49adb4c094a3630e5,
+        type: 3}
+      propertyPath: m_Name
+      value: PF Village Props - Brick Wall 01 (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 24a353cd98f33dd49adb4c094a3630e5, type: 3}
+--- !u!4 &135707178981084994 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5990281737887933120, guid: 24a353cd98f33dd49adb4c094a3630e5,
+    type: 3}
+  m_PrefabInstance: {fileID: 5963858225940049282}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6691378286133866478
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2184664514947262605}
+    m_Modifications:
+    - target: {fileID: 5697632870990887120, guid: 247f9a4d35fd5794e87c5afcd14b247e,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.4620614
+      objectReference: {fileID: 0}
+    - target: {fileID: 5697632870990887120, guid: 247f9a4d35fd5794e87c5afcd14b247e,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.2238271
+      objectReference: {fileID: 0}
+    - target: {fileID: 5697632870990887120, guid: 247f9a4d35fd5794e87c5afcd14b247e,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.014455
+      objectReference: {fileID: 0}
+    - target: {fileID: 5697632870990887120, guid: 247f9a4d35fd5794e87c5afcd14b247e,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5697632870990887120, guid: 247f9a4d35fd5794e87c5afcd14b247e,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5697632870990887120, guid: 247f9a4d35fd5794e87c5afcd14b247e,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5697632870990887120, guid: 247f9a4d35fd5794e87c5afcd14b247e,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5697632870990887120, guid: 247f9a4d35fd5794e87c5afcd14b247e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5697632870990887120, guid: 247f9a4d35fd5794e87c5afcd14b247e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5697632870990887120, guid: 247f9a4d35fd5794e87c5afcd14b247e,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5697632870990887126, guid: 247f9a4d35fd5794e87c5afcd14b247e,
+        type: 3}
+      propertyPath: m_Name
+      value: PF Village Props - Fence B (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 247f9a4d35fd5794e87c5afcd14b247e, type: 3}
+--- !u!4 &1427223206837966654 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5697632870990887120, guid: 247f9a4d35fd5794e87c5afcd14b247e,
+    type: 3}
+  m_PrefabInstance: {fileID: 6691378286133866478}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &7064642544649491008
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2184664514947262605}
+    m_Modifications:
+    - target: {fileID: 2837406938869584296, guid: 8c828d4d79885ea4c9427a5f69c3158f,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 2837406938869584296, guid: 8c828d4d79885ea4c9427a5f69c3158f,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.228071
+      objectReference: {fileID: 0}
+    - target: {fileID: 2837406938869584296, guid: 8c828d4d79885ea4c9427a5f69c3158f,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.014455
+      objectReference: {fileID: 0}
+    - target: {fileID: 2837406938869584296, guid: 8c828d4d79885ea4c9427a5f69c3158f,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2837406938869584296, guid: 8c828d4d79885ea4c9427a5f69c3158f,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2837406938869584296, guid: 8c828d4d79885ea4c9427a5f69c3158f,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2837406938869584296, guid: 8c828d4d79885ea4c9427a5f69c3158f,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2837406938869584296, guid: 8c828d4d79885ea4c9427a5f69c3158f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2837406938869584296, guid: 8c828d4d79885ea4c9427a5f69c3158f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2837406938869584296, guid: 8c828d4d79885ea4c9427a5f69c3158f,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2837406938869584302, guid: 8c828d4d79885ea4c9427a5f69c3158f,
+        type: 3}
+      propertyPath: m_Name
+      value: PF Village Props - Fence B (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8c828d4d79885ea4c9427a5f69c3158f, type: 3}
+--- !u!4 &5002048265399370728 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2837406938869584296, guid: 8c828d4d79885ea4c9427a5f69c3158f,
+    type: 3}
+  m_PrefabInstance: {fileID: 7064642544649491008}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8056896983358320332
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2184664514947262605}
+    m_Modifications:
+    - target: {fileID: 2331467385809207484, guid: d874551c50cc4054b97b0d4465489b88,
+        type: 3}
+      propertyPath: m_Name
+      value: PF Village Props - Brick Wall 01 (9)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2331467385809207486, guid: d874551c50cc4054b97b0d4465489b88,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 6.901984
+      objectReference: {fileID: 0}
+    - target: {fileID: 2331467385809207486, guid: d874551c50cc4054b97b0d4465489b88,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.8981998
+      objectReference: {fileID: 0}
+    - target: {fileID: 2331467385809207486, guid: d874551c50cc4054b97b0d4465489b88,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.014455
+      objectReference: {fileID: 0}
+    - target: {fileID: 2331467385809207486, guid: d874551c50cc4054b97b0d4465489b88,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2331467385809207486, guid: d874551c50cc4054b97b0d4465489b88,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2331467385809207486, guid: d874551c50cc4054b97b0d4465489b88,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2331467385809207486, guid: d874551c50cc4054b97b0d4465489b88,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2331467385809207486, guid: d874551c50cc4054b97b0d4465489b88,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2331467385809207486, guid: d874551c50cc4054b97b0d4465489b88,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2331467385809207486, guid: d874551c50cc4054b97b0d4465489b88,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d874551c50cc4054b97b0d4465489b88, type: 3}
+--- !u!4 &5734437071681760882 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2331467385809207486, guid: d874551c50cc4054b97b0d4465489b88,
+    type: 3}
+  m_PrefabInstance: {fileID: 8056896983358320332}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8675204414569655021
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2184664514947262605}
+    m_Modifications:
+    - target: {fileID: 2751712766632564216, guid: e49d6b870b8611b4c936de9123fa9e8d,
+        type: 3}
+      propertyPath: m_Name
+      value: PF Village Props - Fence B (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2751712766632564222, guid: e49d6b870b8611b4c936de9123fa9e8d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.41206145
+      objectReference: {fileID: 0}
+    - target: {fileID: 2751712766632564222, guid: e49d6b870b8611b4c936de9123fa9e8d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 8.043827
+      objectReference: {fileID: 0}
+    - target: {fileID: 2751712766632564222, guid: e49d6b870b8611b4c936de9123fa9e8d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.014455
+      objectReference: {fileID: 0}
+    - target: {fileID: 2751712766632564222, guid: e49d6b870b8611b4c936de9123fa9e8d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2751712766632564222, guid: e49d6b870b8611b4c936de9123fa9e8d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2751712766632564222, guid: e49d6b870b8611b4c936de9123fa9e8d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2751712766632564222, guid: e49d6b870b8611b4c936de9123fa9e8d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2751712766632564222, guid: e49d6b870b8611b4c936de9123fa9e8d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2751712766632564222, guid: e49d6b870b8611b4c936de9123fa9e8d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2751712766632564222, guid: e49d6b870b8611b4c936de9123fa9e8d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e49d6b870b8611b4c936de9123fa9e8d, type: 3}
+--- !u!4 &6797207671550885651 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2751712766632564222, guid: e49d6b870b8611b4c936de9123fa9e8d,
+    type: 3}
+  m_PrefabInstance: {fileID: 8675204414569655021}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9003879073917359972
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2184664514947262605}
+    m_Modifications:
+    - target: {fileID: 7880716963024889364, guid: fce7e29bb6a5b1943afb734f766fd2af,
+        type: 3}
+      propertyPath: m_Name
+      value: PF Village Props - Brick Wall 01 (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7880716963024889366, guid: fce7e29bb6a5b1943afb734f766fd2af,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.6120615
+      objectReference: {fileID: 0}
+    - target: {fileID: 7880716963024889366, guid: fce7e29bb6a5b1943afb734f766fd2af,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.6238272
+      objectReference: {fileID: 0}
+    - target: {fileID: 7880716963024889366, guid: fce7e29bb6a5b1943afb734f766fd2af,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.014455
+      objectReference: {fileID: 0}
+    - target: {fileID: 7880716963024889366, guid: fce7e29bb6a5b1943afb734f766fd2af,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7880716963024889366, guid: fce7e29bb6a5b1943afb734f766fd2af,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7880716963024889366, guid: fce7e29bb6a5b1943afb734f766fd2af,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7880716963024889366, guid: fce7e29bb6a5b1943afb734f766fd2af,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7880716963024889366, guid: fce7e29bb6a5b1943afb734f766fd2af,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7880716963024889366, guid: fce7e29bb6a5b1943afb734f766fd2af,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7880716963024889366, guid: fce7e29bb6a5b1943afb734f766fd2af,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fce7e29bb6a5b1943afb734f766fd2af, type: 3}
+--- !u!4 &1272788075542786418 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7880716963024889366, guid: fce7e29bb6a5b1943afb734f766fd2af,
+    type: 3}
+  m_PrefabInstance: {fileID: 9003879073917359972}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9124710987696416282
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2184664514947262605}
+    m_Modifications:
+    - target: {fileID: 2926545494628646329, guid: bb5a945932f7b1b43a41163c27090776,
+        type: 3}
+      propertyPath: m_Name
+      value: PF Village Props - Brick Wall 01 (8)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926545494628646331, guid: bb5a945932f7b1b43a41163c27090776,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.34793854
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926545494628646331, guid: bb5a945932f7b1b43a41163c27090776,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.383827
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926545494628646331, guid: bb5a945932f7b1b43a41163c27090776,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 14.014455
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926545494628646331, guid: bb5a945932f7b1b43a41163c27090776,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926545494628646331, guid: bb5a945932f7b1b43a41163c27090776,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926545494628646331, guid: bb5a945932f7b1b43a41163c27090776,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926545494628646331, guid: bb5a945932f7b1b43a41163c27090776,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926545494628646331, guid: bb5a945932f7b1b43a41163c27090776,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926545494628646331, guid: bb5a945932f7b1b43a41163c27090776,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926545494628646331, guid: bb5a945932f7b1b43a41163c27090776,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bb5a945932f7b1b43a41163c27090776, type: 3}
+--- !u!4 &6213931554052479905 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2926545494628646331, guid: bb5a945932f7b1b43a41163c27090776,
+    type: 3}
+  m_PrefabInstance: {fileID: 9124710987696416282}
+  m_PrefabAsset: {fileID: 0}
